@@ -10,7 +10,7 @@ Results:
 
 - 1549 retiring employees are eligible for the mentorship progam. However, highest number of eligible mentorship title falls under "Staff" followed by "Senior Engineer:
 
-![Screenshot](Mentorship_eligiblity_by_Title.png)
+![Screenshot](Mentorship_eligibility_by_Title.png)
 
 Summary:
 - As the "silver tsunami" begins to make an impact, 72,458 roles would be impacted and "Senior Engineer" and "Senior Staff" title would be the most impacted.  
